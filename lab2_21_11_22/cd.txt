@@ -1,0 +1,8 @@
+1. count = 0
+2. Result = 0
+3. If count &gt; 20 GOTO 8
+4. count=count + 1
+5. increment = 2 * count
+6. result = result +increment
+7. GOTO 3
+8. end
